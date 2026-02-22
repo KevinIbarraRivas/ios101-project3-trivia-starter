@@ -26,8 +26,14 @@ The following **additional** features are implemented:
 - [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/ac645b971ea1494f897b81707fcc680a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-## Notes
+<div>
+    <a href="https://www.loom.com/share/ac645b971ea1494f897b81707fcc680a">
+      <p>Loom Message - 21 February 2026 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/ac645b971ea1494f897b81707fcc680a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ac645b971ea1494f897b81707fcc680a-b6026704f14c37ee-full-play.gif#t=0.1">
+    </a>
+  </div>
 
 The only problem I had working on this project was working on the layout constraints in x code.
 
